@@ -10,4 +10,5 @@ import Foundation
 
 public class Sampling{
     var dude = 3
+    var dudes = 4
 }
