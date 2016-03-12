@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+public class Sampling{
+    var dude = 3
+}
