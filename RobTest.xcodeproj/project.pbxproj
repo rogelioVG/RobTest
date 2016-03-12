@@ -15,6 +15,7 @@
 		E95A62DF1C94A9D300DDAEE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E95A62DD1C94A9D300DDAEE2 /* LaunchScreen.storyboard */; };
 		E95A62EA1C94A9D300DDAEE2 /* RobTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95A62E91C94A9D300DDAEE2 /* RobTestTests.swift */; };
 		E95A62F51C94A9D300DDAEE2 /* RobTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95A62F41C94A9D300DDAEE2 /* RobTestUITests.swift */; };
+		E95A63031C94AB6500DDAEE2 /* Sample Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95A63021C94AB6500DDAEE2 /* Sample Class.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E95A62F01C94A9D300DDAEE2 /* RobTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RobTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E95A62F41C94A9D300DDAEE2 /* RobTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobTestUITests.swift; sourceTree = "<group>"; };
 		E95A62F61C94A9D300DDAEE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E95A63021C94AB6500DDAEE2 /* Sample Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Sample Class.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E95A62D31C94A9D300DDAEE2 /* ViewController.swift */,
 				E95A62D51C94A9D300DDAEE2 /* Main.storyboard */,
 				E95A62DB1C94A9D300DDAEE2 /* Assets.xcassets */,
+				E95A63021C94AB6500DDAEE2 /* Sample Class.swift */,
 				E95A62DD1C94A9D300DDAEE2 /* LaunchScreen.storyboard */,
 				E95A62E01C94A9D300DDAEE2 /* Info.plist */,
 				E95A62D81C94A9D300DDAEE2 /* RobTest.xcdatamodeld */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E95A62D41C94A9D300DDAEE2 /* ViewController.swift in Sources */,
+				E95A63031C94AB6500DDAEE2 /* Sample Class.swift in Sources */,
 				E95A62D21C94A9D300DDAEE2 /* AppDelegate.swift in Sources */,
 				E95A62DA1C94A9D300DDAEE2 /* RobTest.xcdatamodeld in Sources */,
 			);
