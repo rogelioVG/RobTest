@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		417E16E81C94AE74007736BB /* TESTYTEST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417E16E71C94AE74007736BB /* TESTYTEST.swift */; };
 		E95A62D21C94A9D300DDAEE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95A62D11C94A9D300DDAEE2 /* AppDelegate.swift */; };
 		E95A62D41C94A9D300DDAEE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95A62D31C94A9D300DDAEE2 /* ViewController.swift */; };
 		E95A62D71C94A9D300DDAEE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E95A62D51C94A9D300DDAEE2 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		417E16E71C94AE74007736BB /* TESTYTEST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TESTYTEST.swift; path = ../TESTYTEST.swift; sourceTree = "<group>"; };
 		E95A62CE1C94A9D300DDAEE2 /* RobTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RobTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E95A62D11C94A9D300DDAEE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E95A62D31C94A9D300DDAEE2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		E95A62D01C94A9D300DDAEE2 /* RobTest */ = {
 			isa = PBXGroup;
 			children = (
+				417E16E71C94AE74007736BB /* TESTYTEST.swift */,
 				E95A62D11C94A9D300DDAEE2 /* AppDelegate.swift */,
 				E95A62D31C94A9D300DDAEE2 /* ViewController.swift */,
 				E95A62D51C94A9D300DDAEE2 /* Main.storyboard */,
@@ -267,6 +270,7 @@
 			files = (
 				E95A62D41C94A9D300DDAEE2 /* ViewController.swift in Sources */,
 				E95A63031C94AB6500DDAEE2 /* Sample Class.swift in Sources */,
+				417E16E81C94AE74007736BB /* TESTYTEST.swift in Sources */,
 				E95A62D21C94A9D300DDAEE2 /* AppDelegate.swift in Sources */,
 				E95A62DA1C94A9D300DDAEE2 /* RobTest.xcdatamodeld in Sources */,
 			);
@@ -495,6 +499,7 @@
 				E95A62FB1C94A9D300DDAEE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E95A62FC1C94A9D300DDAEE2 /* Build configuration list for PBXNativeTarget "RobTestTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +508,7 @@
 				E95A62FE1C94A9D300DDAEE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E95A62FF1C94A9D300DDAEE2 /* Build configuration list for PBXNativeTarget "RobTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +517,7 @@
 				E95A63011C94A9D300DDAEE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
